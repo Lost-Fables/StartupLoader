@@ -1,0 +1,3 @@
+name: StartupLoader
+version: ${project.version}
+main: net.lostfables.startuploader.StartupLoaderBungee

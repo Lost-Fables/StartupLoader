@@ -1,0 +1,4 @@
+name: StartupLoader
+version: ${project.version}
+main: net.lostfables.startuploader.StartupLoaderSpigot
+api-version: 1.16
